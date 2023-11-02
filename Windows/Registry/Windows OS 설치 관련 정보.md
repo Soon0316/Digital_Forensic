@@ -1,5 +1,5 @@
-1.Windows OS 설치 관련 정보
--
+Windows OS 설치 관련 정보
+=
 + ####  Windows OS 제품명
 ```
 HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion [ProductName]
